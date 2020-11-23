@@ -162,5 +162,10 @@
 	.terms {
 		text-align: center;
 	}
+
+	.terms a {
+		display: block;
+		margin: 10px auto;
+	}
 }
 
